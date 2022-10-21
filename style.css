@@ -219,7 +219,9 @@ margin-top: 0px;
 
 .row>div:nth-child(2)>p{
     font-size: 18px;
-    font-family: monospace;
+/*     font-family: monospace; */
+    font-family: 'DM Serif Display', serif;
+
 }
 
 .tab-titles{
