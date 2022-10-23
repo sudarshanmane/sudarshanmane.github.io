@@ -566,6 +566,7 @@ border-radius: 12%;
 #staData>p{
     font-size: 16px;
     font-weight: 600;
+    margin-bottom:15px;
 }
 
 #staData{
