@@ -220,8 +220,8 @@ margin-top: 0px;
 .row>div:nth-child(2)>p{
     font-size: 18px;
 /*     font-family: monospace; */
-font-family: 'Playfair Display', serif;
 
+    font-family: 'Playfair Display', serif;
 
     
 }
