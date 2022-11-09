@@ -400,10 +400,11 @@ font-size: 18px;
 .projects-list>div:hover{
     transform:  translateY(-10px);
     box-shadow: 0px 5px 17px 5px rgba(242, 183, 54, 0.81);
+}
 
-
-
-
+.projects-list>div:last-child>video{
+    width:100% ;
+    height: 350px;
 }
 
 .projects-list>div>img:hover{
@@ -886,6 +887,11 @@ nav ul li a{
 .projects-list>div{
     grid-template-columns: repeat(1,1fr);
 }
+    
+    .projects-list>div:last-child>video{
+    width:100% ;
+    height: 200px;
+}
 
 .projects-list>div>img{
     width: 100%;
@@ -1224,6 +1230,11 @@ width: 100%;
     border-bottom-left-radius: 0px;
     border-top-right-radius: 10px;
 
+}
+    
+    .projects-list>div:last-child>video{
+    width:100% ;
+    height: 280px;
 }
 
 
