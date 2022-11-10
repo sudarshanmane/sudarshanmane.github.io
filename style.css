@@ -419,6 +419,9 @@ font-size: 18px;
     border-bottom-left-radius: 10px;
     /* border: 2px solid red; */
 }
+#prdetails{
+    margin-top: 15px;
+}
 
 
 #prdetails>p{
